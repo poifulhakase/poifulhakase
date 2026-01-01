@@ -1,19 +1,49 @@
-# ぽいふる博士｜PointLab
+# ぽいふる博士 / Poiful Hakase
 
-ポイ活・副業・生活防衛を研究する個人研究所「PointLab」主宰。  
-制度・仕組み・インジケーターなど、再現性のある知識を静かに整理しています。
+生活とお金の「不安を減らす仕組み」を研究しています。  
+ポイント活用・制度理解・無理しない選択をテーマに情報をまとめています。
 
-## 研究拠点
-- note（メイン）：https://note.com/pointlab
-- Substack：https://pointlab.substack.com/
+---
 
-## 外部プロフィール
-- Qiita：https://qiita.com/pointlab
-- Zenn：準備中
-- Medium：準備中
-- about.me：https://about.me/pointlab
+## 🔬 研究テーマ
+- ポイ活・固定費削減
+- 制度を理解して損しない暮らし
+- 投資・相場との距離感の取り方
+- 情報に振り回されない判断軸
 
-## 研究テーマ
-- ポイ活・制度活用
-- 副業・収益導線設計
-- テクニカル分析（基礎研究）
+---
+
+## 🧭 拠点リンク（Link Hub）
+
+- 📘 note  
+  https://note.com/pointlab  
+
+- 🧪 Scrapbox（思考ログ・設計図）  
+  https://scrapbox.io/pointlab/
+
+- 🧵 X（旧Twitter）  
+  ※運用開始後に追記
+
+- 🎥 YouTube / TikTok  
+  ※準備中
+
+---
+
+## 🏷 このGitHubについて
+このアカウントは  
+**コードよりも「構造・設計・知識整理」** を置く場所です。
+
+- README型コンテンツ
+- 情報設計
+- 思考の再利用可能化
+
+---
+
+## ✍️ スタンス
+煽らない。  
+急がせない。  
+理解できる形で渡す。
+
+---
+
+> 「理解は、不安を減らす」
