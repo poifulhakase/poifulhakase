@@ -15,17 +15,20 @@
 
 ## 🧭 拠点リンク（Link Hub）
 
-- 📘 note  
+- 🧾 公式プロフィール（Notion）  
+  [https://butter-rover-f23.notion.site/ぽいふる博士-ポイントラボ公式プロフィール](https://www.notion.so/2e077f6f27c880cdb5a6e010c564568e?source=copy_link)
+
+- 📘 note（研究記録・記事）  
   https://note.com/pointlab  
 
 - 🧪 Scrapbox（思考ログ・設計図）  
-  https://scrapbox.io/pointlab/
+  https://scrapbox.io/pointlab
 
 - 🧵 X（旧Twitter）  
-  ※運用開始後に追記
+  https://x.com/Aojiru_Hakase
 
-- 🎥 YouTube / TikTok  
-  ※準備中
+- 💡 GitHub Gist（公開プロフィール補完）  
+  https://gist.github.com/poifulhakase/b62afe53db28821984b3a766a792bd78
 
 ---
 
