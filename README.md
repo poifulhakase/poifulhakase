@@ -14,5 +14,8 @@
 - 時間を奪わないか
 - 自動化できるか
 
-## note.com
-- https://note.com/pointlab
+## 関連リンク
+- note: https://note.com/pointlab
+- Beacons: https://beacons.ai/poifulhakase
+- Notion公式プロフィール: https://www.notion.so/2e077f6f27c880cdb5a6e010c564568e?source=copy_link
+- X: https://x.com/Aojiru_Hakase
