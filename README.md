@@ -14,5 +14,5 @@
 - 時間を奪わないか
 - 自動化できるか
 
-## 関連研究
-- note: https://note.com/pointlab
+## note
+- https://note.com/pointlab
